@@ -1,0 +1,16 @@
+table th:first-of-type {
+	width: 50px;
+    background:grey;
+}
+table th:nth-of-type(2) {
+    width: 200pt;
+}
+table th:nth-of-type(3) {
+    width: 200pt;
+}
+table td:first-of-type {
+    background:grey;
+}
+table th:nth-of-type(3) {
+    width: 200pt;
+}
